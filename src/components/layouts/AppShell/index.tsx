@@ -1,5 +1,6 @@
 
 import Navbar from "../navbar";
+//mengimpor
 
 type AppShellProps = {
     children: React.ReactNode;
